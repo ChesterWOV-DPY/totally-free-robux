@@ -1,0 +1,34 @@
+@import url('http://fonts.cdnfonts.com/css/gotham');
+
+body {
+  font-family: "Gotham", Avenir, Helvetica, Arial;
+  background-color: #d8d8d8;
+  color: black;
+}
+
+.actual-in {
+  border: 0px;
+  width: 90%;
+  height: 1.5rem;
+}
+
+#dialog {
+  margin-left: 23%;
+  margin-right: auto;
+  width: 50%;
+  border: none;
+  background-color: white;
+}
+
+#submit {
+  font-family: "Gotham", Avenir, Helvetica, Arial;
+  border-width: 2px;
+  border-radius: .5rem;
+  border-color: black;
+  font-size: 1rem;
+  text-align: center;
+  background-color: white;
+  color: black;
+  margin-left: 25%;
+  margin-right: auto;
+}
